@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Pizzamax.com.pk</title>
+	<style type="text/css">
+	*
+	{
+		margin: 0px;
+		padding: 0px;
+		box-sizing: border-box;
+		background:  #e9e9e9;
+	}
+	#hader
+	{   
+		width: 100%;
+		height: 5vh;
+		background: #333;
+	}
+	ol
+	{
+		list-style-type: none; 
+	}
+	li
+	{
+		font-family: "arial";
+		float: right;
+        width: 8%;
+		text-align: center;
+		height: 5vh;
+		padding-top: 0%; 
+		background: #333;
+		color: white;
+	}
+	li:hover
+	{
+
+		border-bottom: solid 2px #ffc107;
+	}
+	#nav
+	{
+		width: 100%;
+		height: 8vh;
+		background: #c30000;
+		color: white;
+		float: left;
+	}
+	#con
+	{
+		width: 100%;
+		height: 80vh;
+		margin: auto;
+		background: #e9e9e9;
+		
+	}
+	#side
+	{
+		width: 100%;
+		height: 15vh;
+		background: #e9e9e9;
+		padding: 3%;
+	}
+	#ser
+	{
+		width: 76%;
+		height: 50vh;
+		margin: auto;
+		background: #e9e9e9;
+	}
+	.c3
+	{
+		width: 22.7%;
+		height: 50vh;
+		float: left;
+		border-radius: 20px;
+	}
+	.c4
+	{
+		width: 3%;
+		height: 50vh;
+		float: left;
+		background: #e9e9e9;
+	}
+	#mem
+	{
+		width: 76%;
+		height: 40vh;
+		margin: auto;
+		background: #e9e9e9;
+	}
+	.c5
+	{
+		width: 25%;
+		height: 40vh;
+		float: left;
+	}
+	#hover:hover
+	{
+		"border: 2px solid white; 
+		width: 40%; 
+		height: 6vh; 
+		background: white;
+		color: red;
+	}
+	#jjj
+	{
+		width: 76%;
+		height: 55vh;
+		margin: auto;
+		background: #e9e9e9;
+	}
+	#lll
+	{
+		width: 100%;
+		height: 10vh;
+		color: white;
+		background:  #c30000;
+		padding-left: 450px;
+		float: left;
+	}
+	.d1
+	{
+		margin-left: 6%;
+		color: white;
+		background:  #c30000;
+	}
+	.d1:hover
+	{
+		color: #f5c536;
+		width: 10%;
+		height: 5vh;    
+	}
+	.d2
+	{
+	    width: 8%;
+		height: 4vh;
+		border: 2px rgb(9 30 69 / 1);
+		color: white;
+		background:  #c30000;
+		border-radius: 5px;
+		text-align: center;	
+		background: rgb(9 30 69 / 1);
+		margin-left: 0px;
+		float: right;
+	}
+
+	#footer
+	{
+		width: 100%;
+		height: 15vh;
+		background:  #333;
+		color: white;
+		padding: 5%;
+	}
+    #footer:hover
+    {
+    	color: #f5c536;
+    }
+	.d4
+	{
+		margin-left: 80px;
+		color: white;
+		background:  #333;
+	}
+	.d5
+	{
+
+		margin-left: 210px;
+		color: white;
+		background:  #333;
+	}
+	.d6
+	{
+		margin-left: 0px;
+		color: white;
+		background:  #333;
+	}
+	.d6:hover
+	{
+		border-bottom: 2px solid white;
+		width: 10%;
+		height: 5vh;  
+	}
+	.o1
+	{
+		font-family: "arial";
+		float: left;
+		margin: 2px;
+        width: 7%;
+		text-align: center;
+		height: 5vh;
+		padding-top: 0%; 
+		background: #c30000;
+		color: white;
+	}
+	.o1:hover
+	{
+	 color: #ffc107;
+	 border-bottom: none; 	
+	}
+	#p1:hover
+	{
+		color: red;
+		background: white;
+		border: solid 2px red;
+		width: 40%;
+		height: 6vh;
+	}
+</style>
+</head>
+<body>
+	<div style="width: 100%; height: 1vh; background: #333;"></div>
+    <div id="hader">
+    	<ol>
+    		<li style="font-family: arial; float: left; width: 8%
+		 height: 5vh; padding-top: 0%; background: #333;color: white;">111-692-111</li>
+    	</ol>
+    	<ol>
+    		<li>Login</li>
+    		<li>Track Order</li>
+    		<li>Branch Locator</li>
+    		<li>About Us</li>
+    		<li>Home</li>
+    	</ol>
+    </div>
+    <div style="width: 100%; height: 3vh; background:#c30000;"></div>
+    <div id="nav"><div class="j1" style="width: 10%; height: 8vh; border: 2px solid black; float: left; margin-left: 57px;"></div><div style="width: 4%; height: 4vh; border: 2px solid black; float: right; margin-right: 57px;"></div>
+    	<ol>
+    		<li style="background: #c30000;">Deals</li>
+    		<li style="background:  #c30000;">Menu</li>
+    	</ol>
+    </div>
+    <div id="con"><img src="02bb06a85bd71fe648bfe18af9c10675.JPEG" width="100%" height="520vh"></div>
+    <div style="width:100%; height: 30px;"></div>
+    <div id="side" style="text-align: center;"><font size="6"><B>FEATURED DEALS</B></font></div>
+    <div id="ser">
+    	<div class="c3"><img src="197f015f6a8ab5124e4a557b3ae05141_thumb.JPEG" width="100%" height="294vh" style="border-radius: 20px;"> </div>
+    	<div class="c4"></div>
+    	<div class="c3"><img src="f8c2fccc028b989c1908cfed880e3eae_thumb.JPEG" width="100%" height="294vh" style="border-radius: 20px;"> </div>
+    	<div class="c4"></div>
+    	<div class="c3"><img src="50e3fe319dd75c3c8a2c1eb81227190d_thumb.JPEG" width="100%" height="294vh" style="border-radius: 20px;"> </div>
+    	<div class="c4"></div>
+    	<div class="c3"><img src="cad941212970ed62150682ffee22861e_thumb.JPEG" width="100%" height="294vh" style="border-radius: 20px;"> </div>
+    </div>
+    <div style="width: 100%; height: 13vh"></div>
+    <div id="mem">
+    	<div class="c5">
+    		<FONT SIZE="5"><B>MEMBERSHIP</B>
+    		<BR>
+    		<B>CARD!</B></FONT>
+    		<BR>
+    		<BR>
+    		Buy our membership card and
+    		<BR> 
+    		enjoy amazing discounts.
+    		<BR>
+    		<BR>
+    		<BR>
+    		<div id="p1"style="border: 2px solid red; width: 40%; height: 6vh; border-radius: 15px; text-align: center; background: red; color: white;">Call Us Now</div>
+    	</div>
+    	<div class="c5"><img src="membership-card.PNG" width="100%" height="235VH"> </div>
+    	<div class="c5">
+    		<FONT SIZE="5"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CALL US NOW
+    		<BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;111-629-111
+            <BR>
+            <BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FIND US</B></FONT>
+            <BR>
+            <BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Office # 601, Anum Estate, 
+            <BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main Shahra-e-faisal, Near 
+            <BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Baloch Colony, Karachi.
+    	</div>
+    	<div class="c5">
+    	<FONT SIZE="5"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESTAURANT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TIMINGS</B></FONT>
+    		<BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dine-in / Takeaway 11am to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2am 
+            <BR>
+          <FONT SIZE="5"> <B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DELIVERY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TIMINGS<B></FONT>
+          	<BR>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11:00 am to 5:30 am
+    	</div>
+    </div>
+    <div id="jjj">
+    	<BR>
+    	<BR>
+    	<BR>
+    	<BR>
+    	<BR>
+    	<BR>
+    	<BR>
+    <FONT SIZE="6"><B>DOWNLOAD NOW</B></FONT> &nbsp; &nbsp; &nbsp; &nbsp; <img src="android-icon.PNG" width="1.6%">
+    </div>
+    <div style="width: 100%; height: 5vh; background: #c30000;"></div>
+    <div id="lll">
+    	<ol>
+    		<font size="2"> <li class="o1">Home</li>
+    		<li class="o1">Deals</li>
+    		<li class="o1">Menu</li>
+    		<li class="o1">About Us</li>
+    		<li class="o1">Branch Locator</li>
+    		<li class="o1">FAQs</li></font>
+    	</ol>
+    	<div class="d2" style="width: 5%; background: #007bff;">Share</div>
+    	<div class="d2" style="width: 1%; background:  #c30000;"></div>
+    	<div class="d2" style="background: #007bff;">Like543k</div>
+   </div>
+   <div style="width: 100%; height: 2vh; background: #333;"></div>
+    <div id="footer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Privacy Policy&nbsp;&nbsp;|&nbsp;&nbsp; Refund Policy&nbsp;&nbsp;|&nbsp;&nbsp; Terms of Use&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2020 © Pizzamax | All Rights Reserved&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Powered By : Creative Drop
+
+
+
+    </div>
+</body>
+</html>
